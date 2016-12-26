@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_547a018ff4daecf13e18fbecd0a2208a9a6b04b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_b61a9b85d99cdf127f1d0f5b84ef0b05ab73feb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_103e87b258981987fc0a82cbd144ba1a67bd776c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_b9bf1c21d01f06b0200d28ac0eb4b7ddc97111fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_e18d17463a6f29b8ee8e79c2d2e81cf638b1468a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_bd9a6822ddc56439a747265d4d1a7d0e765229a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_5864ea928dbd3247e3b00fb2005ec707fc10edd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_63e340f6d0130d253017e7b793a2df7200999672\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_e509bd06aecebb93ca49c3d5a12cd3aa82f04b7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_e711912eff556a433d29b97432adad8e987d8cd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_558759c1110885eb015cd053e74671c17874ae3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_bfa329f1dbaafd0f861aa8f8cd8cedf7d836db4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c45938885cb871ae8b990e2cc6b80d044013f028\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a5071b4d874510742b2d1c3df0ccc5789be8f88a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_a26759fb3c6498b81cdfc29d7e6f46e3f0517f26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="7889efb067710aa8e906b2af5f418135741b130c">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f1fc8b2af59dcb5060442dc0572ea49b25b78ee2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_220607d0eb1334abbd71a1f54548e80e7a43d410\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="c50e738e40304b65787d1f98b99e94620f4689ce">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_dfce67cdbb22fc1aee50444901d98dec0be978e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_bd038d6615b24d25e48d75f75be339da760bb3b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_840bbc79d329581eb6f9b7d83640c1769b632b52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dulce Lariz\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_d18f3562b7db8d140eb433d9372210da1b98d829\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="ad19b354eb4491d346b2512532aca47668af9430">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_51677df713b5568cf02244421ac852c6072a4d19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_699a45f305fd8120c1ffb4491fd950f05361f0df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e2c075e5b3feefd3fa82f446f1bcae5520dd0863\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="c147b5bc478a2dc48a1c12ea08deb63be3cf97e9">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d32350e89f35805ae88a19cb9dc73ddbc63fbd77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_7f52160a6c29b792d763e04741dd7f89d3203bf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_a5362ee4ec5a131a43e0a1d5ea721e220634f6fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e5dbfe23dbfb150189d627edf5d801f54bc50bba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_c50139a61d6b7ab5baa9e14f944dd1dccfdfe0f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_bf57ac92f5e018d1194916b7042f6296e7e1ffca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_4dc90a9e0294153c95790a62db9d46347488596e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_75d9a328b506bcab6b56f75fe226a387e45f5555\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_bb5c9b0f1fc984e9bb9fd70bc6e336dab9adc91b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKmPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ebbe5f94ac3d75d2644df5a62f8bcce2c82f5838\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8cc9aade84dbe6bfdaa9ed221047d9ac0d3c6148\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\AndroidStudioProjects\ConvertMilesToKm\Android-ConvertMilesToKm\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_59c7a2e56be7028f96a5ef3c0f34bea531618951\classes.dex" />
+    </item>
+
+</items>

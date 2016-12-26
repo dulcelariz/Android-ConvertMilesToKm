@@ -1,0 +1,7 @@
+#Mon Dec 26 16:42:08 CST 2016
+base.0=C\:\\AndroidStudioProjects\\ConvertMilesToKm\\Android-ConvertMilesToKm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_dfce67cdbb22fc1aee50444901d98dec0be978e1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\AndroidStudioProjects\\ConvertMilesToKm\\Android-ConvertMilesToKm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f1fc8b2af59dcb5060442dc0572ea49b25b78ee2\\classes.dex
+base.1=C\:\\AndroidStudioProjects\\ConvertMilesToKm\\Android-ConvertMilesToKm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f1fc8b2af59dcb5060442dc0572ea49b25b78ee2
+file.0=C\:\\AndroidStudioProjects\\ConvertMilesToKm\\Android-ConvertMilesToKm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_dfce67cdbb22fc1aee50444901d98dec0be978e1\\classes.dex
